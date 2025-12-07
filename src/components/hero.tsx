@@ -110,7 +110,7 @@ const Hero = () => {
                   initial='hidden'
                   animate='show'
                 >
-                  S
+                  N
                 </motion.span>
                 <motion.span
                   ref={handleSpanRef}
@@ -119,7 +119,7 @@ const Hero = () => {
                   initial='hidden'
                   animate='show'
                 >
-                  u
+                  i
                 </motion.span>
                 <motion.span
                   ref={handleSpanRef}
@@ -128,7 +128,7 @@ const Hero = () => {
                   initial='hidden'
                   animate='show'
                 >
-                  m
+                  y
                 </motion.span>
                 <motion.span
                   ref={handleSpanRef}
@@ -146,7 +146,7 @@ const Hero = () => {
                   initial='hidden'
                   animate='show'
                 >
-                  
+                  t
                 </motion.span>
                 <motion.span
                   ref={handleSpanRef}
@@ -155,7 +155,7 @@ const Hero = () => {
                   initial='hidden'
                   animate='show'
                 >
-                  
+                  h
                 </motion.span> 
                 <motion.span
                   ref={handleSpanRef}
@@ -164,7 +164,7 @@ const Hero = () => {
                   initial='hidden'
                   animate='show'
                 >
-                  
+                  i
                 </motion.span>
               </span>
               <motion.span
@@ -174,7 +174,7 @@ const Hero = () => {
                 initial='hidden'
                 animate='show'
               >
-                .
+                
               </motion.span>
             </div>
           </h1>
@@ -184,7 +184,7 @@ const Hero = () => {
             initial='hidden'
             animate='show'
           >
-            I&apos;m a <span className='from-primary to-accent bg-clip-text text-transparent bg-gradient-120'>Data and Platform Engineer</span> residing in Atlnta&nbsp;
+            I&apos;m a <span className='from-primary to-accent bg-clip-text text-transparent bg-gradient-120'>Data and Platform Engineer</span> residing in Atlanta&nbsp;
             <br className='hidden sm:block' />
             Georgia <span className='xs:hidden landscape-sm:inline'>.</span>
             <span className='hidden xs:inline landscape-sm:hidden'>
