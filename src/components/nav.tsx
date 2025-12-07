@@ -254,8 +254,8 @@ l-949 0 -10 -23 c-6 -12 -17 -51 -26 -87 -8 -36 -22 -90 -29 -120 -8 -30 -23
             initial='hidden'
             animate='show'
           >
-            Suma&nbsp;
-            <span className='hidden md:block'>Sri Chowdary Atheti</span>
+            Niyathi&nbsp;
+            <span className='hidden md:block'>Aiella</span>
           </motion.p>
         </Link>
         <ul className='hidden list-none flex-row gap-10 sm:flex'>
