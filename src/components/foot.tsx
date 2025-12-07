@@ -8,7 +8,7 @@ const Foot = () => {
         Made with lots of ❤️
       </div>
       <p className='mt-5 text-[14px] opacity-75 '>
-        &copy; {new Date().getFullYear()} Suma Atheti <br />
+        &copy; {new Date().getFullYear()} Niyathi Aiella <br />
       </p>
       <a
         href='https://github.com/SumaSri9/Portfolio'

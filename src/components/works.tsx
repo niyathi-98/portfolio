@@ -123,7 +123,7 @@ const Works = () => {
           variants={fadeIn('', '', 0.1, 1) as Variants}
           className='section-text pointer-events-auto mt-3 max-w-3xl text-[17px] leading-[30px] text-text'
         >
-          Having around three years of experience, I've worked as a software engineer, systems engineer, research assistant. This diverse background has given me a comprehensive understanding of applications and the data that drives them. I am passionate about working on real-world projects that have a significant impact on people's lives.
+          Having around three years of experience, I've worked as a software engineer, systems engineer, Technical Consultant. This diverse background has given me a comprehensive understanding of applications and the data that drives them. I am passionate about working on real-world projects that have a significant impact on people's lives.
         My experience is reflected in a portfolio of projects that demonstrate my skills and expertise. These projects include demonstration links and source code repositories, showcasing my ability to tackle various challenges, work with different technologies, and efficiently manage projects.
         </motion.p>
       </div>

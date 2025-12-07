@@ -43,9 +43,7 @@ const About = () => {
       </motion.div>
 
       <motion.p variants={fadeIn('', '', 0.1, 1) as Variants} className='section-text pointer-events-auto mt-4 max-w-3xl text-[17px] leading-[30px] text-text'>
-
-      As a detail-oriented Software developer and technical specialist, I&apos;m dedicated to building efficient, reliable solutions that make a tangible impact. With expertise in ReactJS, Java Spring Boot, and PostgreSQL, I&apos;ve streamlined data retrieval processes, improved component tracking for large-scale operations, and enhanced system reliability through automation. I have experience managing terabyte-scale datasets, automating operational tasks, and ensuring robust data security using OAuth 2.0 and JWT.
-      My approach combines strong problem-solving skills with a focus on system automation, data management, and technical troubleshooting. I am also skilled at diagnosing hardware and software issues, enhancing operational efficiency, and providing timely support in fast-paced environments. Additionally, my experience working in Agile teams has sharpened my ability to adapt quickly, prioritize tasks, and deliver solutions on time.
+        Data Engineer with strong expertise in Python, SQL, AWS, and cloud data pipelines, focused on building scalable, automated solutions that drive business impact. I’ve led cloud-migration assessments for enterprise clients, engineered ETL pipelines that reduced manual efforts by 80%, and developed analytics dashboards that identified 20–30% cost savings. Skilled in cross-cloud architectures (AWS/Azure/GCP), serverless engineering, Terraform, and stakeholder-facing delivery. I bring a blend of technical depth and clear communication, delivering reliable, efficient solutions in fast-paced, Agile environments.
       </motion.p>
 
       <div className='mt-20 flex select-none flex-wrap gap-10'>

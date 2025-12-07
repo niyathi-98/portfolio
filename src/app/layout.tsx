@@ -1,7 +1,7 @@
 import Nav from '../components/nav';
 
 export const metadata = {
-  title: 'Suma | Portfolio',
+  title: 'Niyathi | Portfolio',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
